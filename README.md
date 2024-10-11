@@ -1,7 +1,7 @@
 This is 37.exe a trojan created by MalwareLab150 (by me) . In Python and Assembly with 26 payloads and 7 bytebeats includes: Delete LogonUi.exe, regedit keys, disk.sys , system32 , taskmgr,  shutdown.exe,hal.dll, ntoskrnl.exe and ovewrite the mbr .
 PLS USE ONLY A VM 
 It also has many RGB and Screen smash style graphic effects. I RECOMMEND YOU USE A VM FOR EXAMPLE VIRTUALBOX or VMWARE, if you run it on a real PC the damage is many, for example crashing ventoy and Rufus or making the disks unreadable.
-I AM NOT RESPONSIBLE FOR ANY DAMAGE. Credit to @ArTicZera For the mbr . The mbr is a FULL remake of AcidOs cube
+I AM NOT RESPONSIBLE FOR ANY DAMAGE. Credit to @ArTicZera https://github.com/ArTicZera e https://github.com/nikitpad  For the mbr . The mbr is a FULL remake of AcidOs cube
 ![Windows 10 x64 -2024-07-22-22-13-44](https://github.com/user-attachments/assets/c1cc3abb-8eb6-449b-8d66-39f05609d0ab)
 ![Windows 10 x64 -2024-07-22-22-12-59](https://github.com/user-attachments/assets/fc86442e-674e-4ed8-ac89-de109f258f26)
 ![Windows 10 x64 -2024-07-22-22-12-04](https://github.com/user-attachments/assets/71df17c9-e75c-4c53-aeb1-b173e6e5bf13)
